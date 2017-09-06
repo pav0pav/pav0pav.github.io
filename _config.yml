@@ -9,13 +9,25 @@
 title: Bloody computers!
 email: pawel@dunst.me
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  System Admin - Graphic Artist - Linux Enthusiast
+baseurl: "/startbootstrap-freelancer-jekyll" # the subpath of your site, e.g. /blog
+url: "http://dunst.me" # the base hostname & protocol for your site
+
+# Social media profiles - feel free to add more here
 twitter_username: pav0pav
 github_username:  pav0pav
+facebook_username: StartBootstrap
+#instagram_username: beyonce
+#stackoverflow_url: https://
+#googleplus_username: BobMarley
+#skype_username: Pawel D.
+#linkedin_url: https://
+
+# Address information
+address_street: 3034 Melrose Place
+address_city: Beverly Hills
+address_state: CA
+address_zip: 90201
 
 # Build settings
 markdown: kramdown
