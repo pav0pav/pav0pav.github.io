@@ -16,18 +16,18 @@ url: "http://dunst.me" # the base hostname & protocol for your site
 # Social media profiles - feel free to add more here
 twitter_username: pav0pav
 github_username:  pav0pav
-facebook_username: StartBootstrap
-#instagram_username: beyonce
+facebook_username: Bloody computers!
+#instagram_username: pav0pav
 #stackoverflow_url: https://
-#googleplus_username: BobMarley
+#googleplus_username: Bloody computers!
 #skype_username: Pawel D.
-#linkedin_url: https://
+#linkedin_url: https://www.linkedin.com/in/pawel-dunst-64030510b/
 
 # Address information
-address_street: 3034 Melrose Place
-address_city: Beverly Hills
-address_state: CA
-address_zip: 90201
+address_street: 300 Ann Street
+address_city: Brisbane
+address_state: QLD
+address_zip: 4000
 
 # Build settings
 markdown: kramdown
